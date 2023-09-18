@@ -1,0 +1,7 @@
+print("+++CONSULTORIO MEDICO+++")
+nombre: str = input("Apellido y nombre del paciente: ")
+nacimiento: str = input("Fecha de nacicimento: ")
+clinica: str = input("Direccion de la clinica: ")
+medicamento: str = input("Medicamento recetado: ")
+dosis: str = input("Dosis del medicamento: ")
+uso: str = input("Instrucciones de uso: ")
